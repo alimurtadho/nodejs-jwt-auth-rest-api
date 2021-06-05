@@ -8,6 +8,10 @@ GET	     ||/api/test/all	 ||retrieve public content
 GET	     ||/api/test/user	 ||access User’s content
 GET	     ||/api/test/admin	 ||access Admin’s content
 ```
+
+## project testing
+>signup / create  user
+![1.signup](image/1.signup.png)
 ## Project setup
 ```
 npm install
