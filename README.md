@@ -12,6 +12,15 @@ GET	     ||/api/test/admin	 ||access Admin’s content
 ## project testing
 >signup / create  user
 ![1.signup](image/1.signup.png)
+>test jwt
+![2.test-jwt](image/2.test-jwt.png)
+>access-token  
+![3.access-token](image/3.access-token.png)
+>test user 
+![4.test:user](image/4.test:user.png)
+>test role user
+![5.test:roleuser](image/5.test:roleuser.png)
+
 ## Project setup
 ```
 npm install
