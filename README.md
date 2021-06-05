@@ -1,6 +1,7 @@
 # Documentation
  APIs that we need to provide:
 ```
+method     url                  action
 POST	 ||/api/auth/signup	 ||signup new account
 POST	 ||/api/auth/signin	 ||login an account
 GET	     ||/api/test/all	 ||retrieve public content
